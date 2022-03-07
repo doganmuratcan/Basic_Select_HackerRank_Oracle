@@ -4,4 +4,4 @@ Query all columns for all American cities in the CITY table with populations lar
 
 The CITY table is described as follows:![image](https://user-images.githubusercontent.com/87142420/157100555-fc781f23-cf4d-4d79-b801-d21a46a3cb42.png)
 
-SELECT * FROM CITY WHERE POPULATION>100000 AND CountryCode='USA'
+SELECT * FROM CITY WHERE POPULATION>100000 AND CountryCode='USA';
