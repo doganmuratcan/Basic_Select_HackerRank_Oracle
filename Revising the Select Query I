@@ -3,4 +3,5 @@ Basic Select Querry
 Query all columns for all American cities in the CITY table with populations larger than 100000. The CountryCode for America is USA.
 
 The CITY table is described as follows:![image](https://user-images.githubusercontent.com/87142420/157100555-fc781f23-cf4d-4d79-b801-d21a46a3cb42.png)
+
 SELECT * FROM CITY WHERE POPULATION>100000 AND CountryCode='USA'
